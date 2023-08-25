@@ -7,7 +7,6 @@
 
 # 역할 및 개별환경
 ![몬피1](https://github.com/ilovegalio/maple_pyramid/assets/77008882/31c26fed-9b21-474d-ac92-eb8e36b3bd41)
-![몬피3](https://github.com/ilovegalio/maple_pyramid/assets/77008882/8e538b89-5b72-4d48-a599-a6ad2bca4e71)
 
 
 # 예상 일정 및 WBS
